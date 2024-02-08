@@ -1,0 +1,13 @@
+<svg width="550.306152" height="550.306152" viewBox="0 0 550.306 550.306" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_0_146_0" x1="442.036133" y1="-44.846924" x2="-44.846893" y2="442.036102" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4851FF"/>
+			<stop offset="1.000000" stop-color="#F02AA6"/>
+		</linearGradient>
+	</defs>
+	<path id="Rectangle" d="M365.478 31.7115C407.76 -10.5706 476.312 -10.5706 518.595 31.7115L518.595 31.7115C560.877 73.9937 560.877 142.546 518.595 184.828L184.829 518.594C142.547 560.877 73.9937 560.877 31.7117 518.594L31.7117 518.594C-10.5706 476.312 -10.5706 407.76 31.7115 365.478L365.478 31.7115Z" fill="url(#paint_linear_0_146_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Rectangle" d="M184.829 518.594C142.547 560.877 73.9937 560.877 31.7117 518.594C-10.5706 476.312 -10.5704 407.76 31.7117 365.478L365.478 31.7115C407.76 -10.5706 476.312 -10.5706 518.595 31.7115C560.877 73.9937 560.877 142.546 518.595 184.828L184.829 518.594Z" stroke="#979797" stroke-opacity="0" stroke-width="0.000000"/>
+</svg>
